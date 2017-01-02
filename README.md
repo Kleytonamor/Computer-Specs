@@ -8,3 +8,5 @@ AMD A10-4600M APU w/ Radeon(tm) HD Graphics 2.30 GHz
 
 ##OS
 64-bit Operating System, x64-based processor
+
+##HP Computer
